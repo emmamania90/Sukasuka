@@ -3,65 +3,6 @@
 
 
 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV1.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="RTM Klik",TV1
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV2.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="RTM Klik",TV2
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Berita RTM.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/Berita_Trans.png" group-title="RTM Klik",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/master.m3u8
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Okey.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-title="RTM Klik",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://i.ibb.co/5hmZPbKP/RTM-Sukan-Plus-2026.webp" group-title="RTM Klik",Sukan+
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="RTM World.rtm" tvg-logo="https://i.ibb.co/rK9mMnCC/rtmworld.png" group-title="RTM Klik",RTM World
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_01.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH1
-https://d30aylox5wvifh.cloudfront.net/live/media0/event1/DASH/event1.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_02.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH2
-https://d30aylox5wvifh.cloudfront.net/live/media0/event2/DASH/event2.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_03.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH3
-https://d30aylox5wvifh.cloudfront.net/live/media0/event3/DASH/event3.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_04.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH4
-https://d30aylox5wvifh.cloudfront.net/live/media0/event4/DASH/event4.mpd
 
 
 
@@ -898,9 +839,68 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV1.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="MALAYSIA",TV1
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV2.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="MALAYSIA",TV2
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Berita RTM.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/Berita_Trans.png" group-title="MALAYSIA",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/master.m3u8
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Okey.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-title="MALAYSIA",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://i.ibb.co/5hmZPbKP/RTM-Sukan-Plus-2026.webp" group-title="MALAYSIA",Sukan+
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="RTM World.rtm" tvg-logo="https://i.ibb.co/rK9mMnCC/rtmworld.png" group-title="MALAYSIA",RTM World
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_01.jpg" group-title="MALAYSIA",20th Asian Games Aichi-Nagoya 2026 CH1
+https://d30aylox5wvifh.cloudfront.net/live/media0/event1/DASH/event1.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_02.jpg" group-title="MALAYSIA",20th Asian Games Aichi-Nagoya 2026 CH2
+https://d30aylox5wvifh.cloudfront.net/live/media0/event2/DASH/event2.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_03.jpg" group-title="MALAYSIA",20th Asian Games Aichi-Nagoya 2026 CH3
+https://d30aylox5wvifh.cloudfront.net/live/media0/event3/DASH/event3.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_04.jpg" group-title="MALAYSIA",20th Asian Games Aichi-Nagoya 2026 CH4
+https://d30aylox5wvifh.cloudfront.net/live/media0/event4/DASH/event4.mpd
 
 ################################################################# INDIAN #################################################################
-#EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_indian-favourites.png"
+#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="astro397" group-title="Indian" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png",201 Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
