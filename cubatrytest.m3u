@@ -4,10 +4,8 @@
 
 
 
-
-
 ############################################################### Unifi TV ################################################################
-#EXTINF:-1 group-logo="https://unifitv.com.my/assets/images/logo/unifi-tv-logo.svg"
+#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=530" group-title="Unifi TV",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -507,7 +505,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 
 
 ################################################################# Sooka #################################################################
-#EXTINF:-1 group-logo="https://sooka.my/assets/images/png/SOOKA_LOGO.png"
+#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="Drama Hebat.my" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/fbc3fcDramaHebat_v1.png",Drama Hebat
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
