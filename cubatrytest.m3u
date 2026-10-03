@@ -587,7 +587,7 @@ https://jmp2.uk/stvp-GB17000066A
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=164
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-chno="" tvg-name="K-Drama+" tvg-id="CA17000023Q" tvg-country="KR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA17000023Q_20250826T234700SQUARE.png" group-title="KOREAN;Drama",K-Drama+
+#EXTINF:-1 tvg-chno="" tvg-name="K-Drama+" tvg-id="CA17000023Q" tvg-country="KR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA17000023Q_20250826T234700SQUARE.png" group-title="KOREAN",K-Drama+
 https://raw.githubusercontent.com/mohdzufar/IPTV/refs/heads/main/Channels/Korea/K-Drama_plus.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
@@ -622,7 +622,7 @@ https://jmp2.uk/stvp-ES200040YF
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=164
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-chno="" tvg-name="NEW KMovies" tvg-id="USAJ30000122O" tvg-country="US" tvg-logo="" group-title="KOREAN;Movies",NEW KMovies
+#EXTINF:-1 tvg-chno="" tvg-name="NEW KMovies" tvg-id="USAJ30000122O" tvg-country="US" tvg-logo="" group-title="KOREAN",NEW KMovies
 https://93c4df59.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtY2FfTmV3S01vdmllc19ITFM/manifest.m3u8?ads.wurl_channel=2191&ads.wurl_name=NewKMovies&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.language=&ads.rating=&ads.ic=&ads.channel_name=&ads.content_producer_name=&ads.content_genre=&ads.client_section=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10909
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
@@ -644,7 +644,7 @@ https://raw.githubusercontent.com/mohdzufar/IPTV/refs/heads/main/Channels/Korea/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=164
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-chno="" tvg-name="AsianCrush" tvg-id="AsianCrush.us" tvg-country="KR" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="KOREAN;Drama",AsianCrush
+#EXTINF:-1 tvg-chno="" tvg-name="AsianCrush" tvg-id="AsianCrush.us" tvg-country="KR" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="KOREAN",AsianCrush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
