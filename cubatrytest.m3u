@@ -12,6 +12,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ################################################################# SOOKA #################################################################
 #EXTINF:-1 group-logo=""
 
@@ -411,7 +421,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 
 ################################################################# CHINESE ################################################################
-#EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_chinese-favourites.png"
+#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="astro355" group-title="CHINESE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png",300 iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
