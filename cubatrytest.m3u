@@ -23,7 +23,7 @@
 
 
 ################################################################# SOOKA #################################################################
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="Drama Hebat.my" group-title="SOOKA" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/fbc3fcDramaHebat_v1.png",Drama Hebat
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -141,7 +141,7 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 
 
 ################################################################### MALAYSIA ###############################################################
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro622" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png",100 Astro30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,7 +318,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 ################################################################# INDIAN #################################################################
 
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro365" group-title="INDIAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ColorsHindi2025.png",116 Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -413,7 +413,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 
 ################################################################# CHINESE ################################################################
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro355" group-title="CHINESE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png",300 iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -521,7 +521,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 ############################################################# KOREAN ############################################################
 
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro161" group-title="KOREAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",392 KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -657,7 +657,7 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
 
 ################################################################ MOVIES ##################################################################
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro131" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -828,7 +828,7 @@ https://ptv2026.com/get_vision.mpd?contentId=uniques
 
 ################################################################# BACKUP #################################################################
 
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 
 #EXTINF:-1 tvg-id="astro193" group-title="BACKUP" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2 NOT 24JAM
@@ -852,7 +852,7 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163662.m3u8
 
 ############################################################## NEWS & DOCUMENTARY ########################################################
 
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro436" group-title="NEWS & DOCUMENTARY" tvg-logo="",501 Astro Awani HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -985,7 +985,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 
 ################################################################### KIDS #################################################################
 
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro411" group-title="KIDS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroTutorTV_2024.png",603 Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1106,7 +1106,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 
 ################################################################# SPORTS #################################################################
 
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro623" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="SPORTS",795 ASG1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1470,7 +1470,7 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/event4/DASH/event4.mpd
 
 ################################################################### ASTRO AUDIO ##########################################################
 
-#EXTINF:-1 group-logo="https://github.com/emmamania90/Sukasuka/blob/main/1791045737031.jpg"
+#EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Raplajingga.jpg"
 
 #EXTINF:-1 tvg-id="astro17" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" group-title="ASTRO AUDIO",HITZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
