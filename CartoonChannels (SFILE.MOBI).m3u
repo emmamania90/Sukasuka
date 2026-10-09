@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Nickelodeon
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="",CartoonNetwork
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="",AstroCeria
+https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
+#EXTINF:-1 group-title="",Animax
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Animax&kid=4bd30e54-5711-44eb-9168-a1a7e5915f75
+#EXTINF:-1 group-title="",Animax
+https://cdn1.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw==/1080P_h264_master.m3u8
+#EXTINF:-1 group-title="",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+#EXTINF:-1 group-title="",Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dreamworks&kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
+#EXTINF:-1 group-title="",CBeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#EXTINF:-1 group-title="",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+#EXTINF:-1 group-title="",DisneyJunior
+https://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 group-title="",DisneyJunior
+https://tvsen7.aynascope.net/disney/index.m3u8
+#EXTINF:-1 group-title="",DisneyJunior
+https://tvsen7.aynascope.net/disneyjr/index.m3u8
+#EXTINF:-1 group-title="",Nickelodeon
+https://tvsen7.aynascope.net/nicklodean/index.m3u8
+#EXTINF:-1 group-title="",NickJr
+https://tvsen7.aynascope.net/nickjr/index.m3u8
+#EXTINF:-1 group-title="",Nicktoons
+https://tvsen7.aynascope.net/nicktoons/index.m3u8
+#EXTINF:-1 group-title="",TeenNick
+https://tvsen7.aynascope.net/teennick/index.m3u8
+#EXTINF:-1 group-title="",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="",Zoo Moo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
